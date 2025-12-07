@@ -63,13 +63,10 @@ He seleccionado herramientas que me permiten desplegar rápido y asegurar el ent
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <a href="https://github.com/xenlor">
-  <img src="https://github-readme-stats.vercel.app/api?username=xenlor&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" height="180" alt="stats graph" />
-  </a>
-  
-  <a href="https://github.com/xenlor">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenlor&layout=compact&theme=dracula&hide_border=true&bg_color=282a36" height="180" alt="languages graph" />
-  </a>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=xenlor&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenlor&layout=compact&theme=dracula&hide_border=true&bg_color=282a36)
+
 </div>
 <!--
 **xenlor/xenlor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
