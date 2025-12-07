@@ -64,8 +64,9 @@ He seleccionado herramientas que me permiten desplegar rápido y asegurar el ent
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=xenlor&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenlor&layout=compact&theme=dracula&hide_border=true&bg_color=282a36)
+| Mis Estadísticas | Lenguajes Top |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=xenlor&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" height="160" alt="stats graph" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenlor&layout=compact&theme=dracula&hide_border=true&bg_color=282a36" height="160" alt="languages graph" /> |
 
 </div>
 <!--
