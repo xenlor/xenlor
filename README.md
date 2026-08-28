@@ -1,10 +1,10 @@
 # About Me
 
-SysAdmin running my own homelab from scratch: Proxmox, Docker, self-hosted services
-Cybersecurity enthusiast, always poking at what I build
-Automating everything I can get away with (n8n, bash, Python)
-Learning to code with AI as a tool, not a crutch
-Building my own security tools and websites
+🖥️ SysAdmin running my own homelab from scratch: Proxmox, Docker, self-hosted services<br>
+🔐 Cybersecurity enthusiast, always poking at what I build<br>
+🤖 Automating everything I can get away with (n8n, bash, Python)<br>
+Learning to code with AI as a tool<br>
+Building my own security tools and websites<br>
 Chilean living in Spain
 
 ## Stack
